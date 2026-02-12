@@ -2,7 +2,7 @@ COVID‑19 Data Exploration Using SQL and Tableau
 This project explores global COVID‑19 trends using SQL Server to analyze cases, deaths, infection rates, and vaccination progress. The analysis uses joins, window functions, temp tables, and views to answer key questions about the pandemic.
 
 Tableau Dashboard
-https://public.tableau.com/views/COVIDDashboard_16839140010380/Dashboard1 (public.tableau.com in Bing)
+https://public.tableau.com/views/COVIDDashboard_16839140010380/Dashboard1
 
 Dataset
 Two main tables:
